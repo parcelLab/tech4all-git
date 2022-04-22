@@ -1,0 +1,10 @@
+Please correct tHe typo in this line.
+
+Then, add, commit, and push your changes.
+git checkout -b YOUR-NAME
+git add testfile.txt
+git commit -m "fix typo"
+git push -u origin YOUR-NAME
+
+Make a pull request into the main branch
+
