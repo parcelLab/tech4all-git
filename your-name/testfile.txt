@@ -1,4 +1,4 @@
-Please correct tHe typo in this line.
+Please correct the typo in this line.
 
 Then, add, commit, and push your changes.
 git checkout -b YOUR-NAME
@@ -8,3 +8,9 @@ git push -u origin YOUR-NAME
 
 Make a pull request into the main branch
 
+
+Version on cloud, version on computer
+- get people to sign in to github
+- more help to get into the folder
+- Get people to config their git
+- Show people what each command does before typing
