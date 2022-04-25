@@ -1,0 +1,32 @@
+# Open the terminal (Mac) or power shell (Windows)
+# git config --global user.name "YOUR NAME"
+# git config --global user.email YOUREMAIL@parcellab.com
+
+# git clone git@github.com:parcelLab/tech4all-git.git
+
+
+Please correct the typo in this line.
+
+Then, add, commit, and push your changes.
+git checkout -b YOUR-NAME
+git add testfile.txt
+git commit -m "fix typo"
+git push -u origin YOUR-NAME
+
+Make a pull request into the main branch
+
+
+Version on cloud, version on computer
+- get people to sign in to github
+- What is GitHub, why you use it
+- more help to get into the folder
+- Get people to config their git
+- Show people what each command does before typing
+- Why so many steps
+- What about checking out the main branch
+- git diff
+- A name
+- what they did
+- etc
+- git stash
+- git pull changes
